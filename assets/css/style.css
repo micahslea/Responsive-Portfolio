@@ -1,0 +1,160 @@
+body {
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/so-white.png");
+  margin: 0px;
+  padding: 0px;
+  width: 980px;
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 80px;
+}
+
+#name {
+  background-color: #4aaaa5;
+  font-family: Georgia;
+  font-size: 40px;
+  color: white;
+  padding: 28px;
+  margin-top: 95px;
+  margin-left: 10px;
+}
+
+#navbar {
+  background-color: #ffffff;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 76px;
+  z-index: 999;
+  position: fixed;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 2px;
+  margin: 0 auto;
+  padding-left: auto;
+  padding-right: auto;
+  padding-bottom: 106px;
+}
+
+.main {
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: 150px;
+  padding: 15px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  width: 960px;
+}
+
+#lines {
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-left-color: #62e7e1;
+  border-right-color: #62e7e1;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+}
+
+#navbar-menu {
+  padding-top: 100px;
+}
+
+#about {
+  padding-right: 30px;
+}
+
+#contact {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.main h1 {
+  border-bottom: 2px solid;
+  border-bottom-color: #4aaaa5;
+  padding-bottom: 20px;
+  color: #4aaaa5;
+}
+
+.main img {
+  clear: right;
+  float: left;
+  margin: 10px;
+}
+
+.main p {
+  padding-top: 8px;
+  color: #777777;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  line-height: 200%;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 50px;
+  border-top: 8px solid #4aaaa5;
+  background-color: rgb(110, 110, 110);
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#rpg {
+  height: 200px;
+  width: 300px;
+}
+
+#trivia {
+  height: 200px;
+  width: 300px;
+}
+
+#guitar {
+  height: 200px;
+  width: 300px;
+}
+
+#rutgers {
+  height: 200px;
+  width: 300px;
+}
+
+#rock {
+  height: 200px;
+  width: 300px;
+}
+
+.block {
+  background-color: #4aaaa5;
+  position: absolute;
+  color: white;
+  text-align: center;
+  z-index: 3;
+  margin: 0 auto;
+  left: 10px;
+  right: 0;
+  top: 75%;
+  width: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.box {
+  position: relative;
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  z-index: 2;
+  margin: 30px 30px 30px 30px;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: #4aaaa5;
+  border: 1px solid #429995;
+  color: white;
+}
