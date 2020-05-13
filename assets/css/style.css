@@ -101,6 +101,7 @@ body {
   color: white;
   text-align: center;
   padding-top: 10px;
+  z-index: 999;
 }
 
 #rpg {
