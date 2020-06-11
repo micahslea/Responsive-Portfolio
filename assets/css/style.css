@@ -129,6 +129,11 @@ body {
   width: 300px;
 }
 
+#Flick-n-Fare {
+  height: 200px;
+  width: 300px;
+}
+
 .block {
   background-color: #4aaaa5;
   position: absolute;
