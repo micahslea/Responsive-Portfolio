@@ -134,6 +134,11 @@ body {
   width: 300px;
 }
 
+#LiriBot {
+  height: 200px;
+  width: 300px;
+}
+
 .block {
   background-color: #4aaaa5;
   position: absolute;
