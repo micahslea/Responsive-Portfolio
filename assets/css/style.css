@@ -139,6 +139,11 @@ body {
   width: 300px;
 }
 
+#Bamazon {
+  height: 200px;
+  width: 300px;
+}
+
 .block {
   background-color: #4aaaa5;
   position: absolute;
